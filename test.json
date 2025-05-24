@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Jane Doe", "skills": ["UI/UX", "Figma"], "rating": 4.5 },
+  { "id": 2, "name": "John Smith", "skills": ["JavaScript", "React"], "rating": 4.8 }
+]
